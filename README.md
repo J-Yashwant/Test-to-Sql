@@ -1,4 +1,4 @@
-# Test-to-Sql
+# Text-to-Sql
 
 create a virtual enivironment to run this
 
